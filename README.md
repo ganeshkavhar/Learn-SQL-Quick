@@ -1,0 +1,55 @@
+# Learn-SQL-Quick
+Learn to code SQL Query
+
+SQL Course Contents:
+- Introduction to SQL:
+    - What is data and database
+    - Difference between database and RDBMS
+    - How data is stored in relational database
+- SQL Commands:
+    - DDL commands
+        - CREATE, ALTER, DROP, TRUNCATE
+        - Data Types like VARCHAR, INT, DATE, FLOAT, BOOLEAN
+        - Constraints like PRIMARY KEY, FOREIGN KEY, UNIQUE, CHECK and NOT NULL
+    - DML commands
+        - INSERT, UPDATE, DELETE, MERGE
+    - TCL commands
+        - COMMIT, ROLLBACK and SAVEPOINT
+    - DCL commands
+        - GRANT and REVOKE
+    - DQL commands
+        - SELECT statement
+- Basic SQL concepts & Query writing
+    - Different operators:
+        - Comparison operators
+        - Arithmetic operators
+        - Logical operators
+        - UNION and UNION ALL operators
+    - CASE statement
+    - Important SQL clauses:
+        - DISTINCT
+        - LIMIT (TOP)
+        - ORDER BY
+    - INNER JOIN
+- Intermediate SQL concepts & Query writing
+    - Subqueries
+    - WITH clause
+    - Group by and Having clause
+    - Aggregate functions
+    - JOINS
+        - LEFT, RIGHT, FULL OUTER JOIN, CROSS JOIN.
+    - Inbuilt functions
+        - Date functions like TO_DATE, DATE_FORMAT, CAST, DATE_ADD etc.
+        - String functions like TO_CHAR, FORMAT, SUBSTRING, POSITION, CONVERT etc.
+- Advance SQL concepts & query writing
+    - SELF JOIN queries
+    - Window functions
+    - Recursive SQL Queries
+    - Pivot table
+    - Stored Procedure
+    - User defined Functions
+- SQL project
+    - Download realistic dataset from the internet
+    - Upload the dataset to RDBMS
+    - Cleanse and analyse the data
+    - Write multiple SQL queries to derive useful information from the dataset.
